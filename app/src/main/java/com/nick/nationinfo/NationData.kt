@@ -9,4 +9,3 @@ data class NationDataDetailData (val name:String,
 
 data class GsonData(val data:ArrayList<NationDataDetailData>)
 
-
