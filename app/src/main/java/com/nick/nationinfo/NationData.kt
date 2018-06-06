@@ -8,3 +8,5 @@ data class NationDataDetailData (val name:String,
                                  val lnaguage:String)
 
 data class GsonData(val data:ArrayList<NationDataDetailData>)
+
+
